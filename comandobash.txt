@@ -1,3 +1,6 @@
 ls -> Lista arquivos
 cd -> move entre diretorios
 mkdir -> criar um pasta
+cat -> Exibe o conteudo do diretorio
+rm -> remove um arquivo ou diretorio
+
