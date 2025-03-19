@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Novas Linha Aqui: 
 escreva aqui ->
+=======
+Movas linha aqui
+legal
+>>>>>>> math
 
