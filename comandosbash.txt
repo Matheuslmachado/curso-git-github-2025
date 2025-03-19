@@ -1,6 +1,6 @@
-git init .
-git status
-git add <arquivo>
-git commit -m "msg"
-git config
+git init . ->
+git status ->
+git add <arquivo> ->
+git commit -m "msg" -> 
+git config ->
 
